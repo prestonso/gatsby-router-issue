@@ -7,7 +7,7 @@ export const Navigation: React.FunctionComponent = () => {
             <Link to="/" style={{ padding: "20px" }}>
                 Home
             </Link>
-            <Link to="issue" style={{ padding: "20px" }}>
+            <Link to="/issue" style={{ padding: "20px" }}>
                 Issue Page
             </Link>
         </nav>
