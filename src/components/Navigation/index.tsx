@@ -1,5 +1,5 @@
 import * as React from "react";
-import { Link } from "@reach/router";
+import { Link } from "gatsby";
 
 export const Navigation: React.FunctionComponent = () => {
     return (
